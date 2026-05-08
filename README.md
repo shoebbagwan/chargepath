@@ -177,8 +177,6 @@ Base URL: `http://localhost:5000`
 
 **Mohammed Shoeb Bagwan**
 
-Built from scratch as a learning project — frontend, backend, and database, all in one day!
-
 ---
 
 ## 🙏 Acknowledgements
